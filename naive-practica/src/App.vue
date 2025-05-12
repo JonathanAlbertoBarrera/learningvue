@@ -9,6 +9,7 @@
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
+  
   <n-button strong secondary round type="success" @click="saludar">¡Haz clic!</n-button>
   <n-button type="primary" loading bordered>Hola</n-button>
   <n-calendar
