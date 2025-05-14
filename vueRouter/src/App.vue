@@ -4,6 +4,7 @@
     <nav>
       <router-link to="/">Inicio</router-link>
       <router-link to="contacto">Contacto</router-link>
+      <router-link to="clientes">Clientes</router-link>
     </nav>
     <router-view />
   </div>
